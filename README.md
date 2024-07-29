@@ -3,10 +3,12 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+![1](https://github.com/user-attachments/assets/4db51e3e-c379-48d4-86fd-df9accc4237e)
 
 1. Install dependencies
 
-   ```bash
+   ```ba![2](https://github.com/user-attachments/assets/0d6c0104-d46a-4876-9803-1ee344bf0889)
+sh
    npm install
    ```
 
